@@ -11,9 +11,9 @@ function onYouTubeIframeAPIReady() {
   player = new YT.Player('youtube-player', {
     height: '100%',
     width: '100%',
-    videoId: '09R8_2nJtjg', // Maroon 5 - Sugar
+    videoId: 'vRQb_-mRcAc', // Unwritted - Natasha Bedingfield 
     playerVars: {
-      'start': 40,
+      'start': 28,
       'controls': 0,
       'autoplay': 1,
       'mute': 1, // Start muted to allow autoplay
