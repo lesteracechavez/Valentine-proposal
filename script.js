@@ -13,7 +13,7 @@ function onYouTubeIframeAPIReady() {
     width: '100%',
     videoId: 'vRQb_-mRcAc', // Unwritted - Natasha Bedingfield 
     playerVars: {
-      'start': 28,
+      'start': 20,
       'controls': 0,
       'autoplay': 1,
       'mute': 1, // Start muted to allow autoplay
